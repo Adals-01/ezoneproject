@@ -4,7 +4,7 @@
   "scripts": {
     "start": "main.js",
     "dev": "vite",
-    "build": "vite build",
+    "build": "cd ezoneproject/ezoneproject && vite build",
     "serve": "vite preview"
   },
   "devDependencies": {
