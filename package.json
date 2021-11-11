@@ -2,6 +2,7 @@
   "name": "ezoneproject",
   "version": "0.0.0",
   "scripts": {
+    "start": "main.js",
     "dev": "vite",
     "build": "vite build",
     "serve": "vite preview"
